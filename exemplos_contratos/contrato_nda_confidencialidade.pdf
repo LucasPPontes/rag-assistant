@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 595 842] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 955 >>
+stream
+BT
+/F1 14 Tf
+50 770 Td
+(ACORDO DE CONFIDENCIALIDADE E NAO DIVULGACAO \(NDA\)) Tj
+/F1 10 Tf
+0 -30 Td
+(PARTE REVELADORA: Alpha Corp Tecnologia S.A.) Tj
+0 -15 Td
+(PARTE RECEPTORA: Beta Innovations Inteligencia Artificial Ltda.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA PRIMEIRA - DAS INFORMACOES CONFIDENCIAIS) Tj
+0 -15 Td
+(Sao consideradas informacoes confidenciais todos os dados tecnicos, codigos-fonte,) Tj
+0 -15 Td
+(arquiteturas de sistemas RAG, algoritmos e dados de clientes compartilhados.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA SEGUNDA - DO PRAZO DE CONFIDENCIALIDADE) Tj
+0 -15 Td
+(As partes se obrigam a manter sigilo rigoroso pelo prazo de 5 \(cinco\) anos a contar) Tj
+0 -15 Td
+(da data de assinatura deste instrumento.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA TERCEIRA - DA PENALIDADE) Tj
+0 -15 Td
+(A divulgacao nao autorizada sujeitara a parte infratora ao pagamento de multa) Tj
+0 -15 Td
+(penal compensatoria no valor de RS 100.000,00 \(cem mil reais\).) Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1317
+%%EOF

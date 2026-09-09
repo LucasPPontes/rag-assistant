@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 595 842] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1200 >>
+stream
+BT
+/F1 14 Tf
+50 770 Td
+(CONTRATO DE PRESTACAO DE SERVICOS DE TECNOLOGIA) Tj
+/F1 10 Tf
+0 -30 Td
+(CONTRATANTE: TechSolutions Tecnologia Ltda, CNPJ 12.345.678/0001-90.) Tj
+0 -15 Td
+(CONTRATADO: Joao da Silva Consultoria MEI, CNPJ 98.765.432/0001-10.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA PRIMEIRA - DO OBJETO) Tj
+0 -15 Td
+(O presente contrato tem como objeto a prestacao de servicos de desenvolvimento) Tj
+0 -15 Td
+(de software, manutencao de banco de dados e integracao de sistemas RAG de IA.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA SEGUNDA - DO VALOR E VALOR MENSAL) Tj
+0 -15 Td
+(Pelo cumprimento dos servicos contratados, a CONTRATANTE pagara ao CONTRATADO) Tj
+0 -15 Td
+(o valor mensalde RS 15.000,00 \(quinze mil reais\), com vencimento todo dia 05.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA TERCEIRA - DA VIGENCIA) Tj
+0 -15 Td
+(O contrato tera vigencia de 12 \(doze\) meses, iniciando em 01/01/2026 e) Tj
+0 -15 Td
+(encerrando-se em 31/12/2026, podendo ser renovado mediante aditivo escrito.) Tj
+0 -15 Td
+0 -12 Td
+(CLAVSULA QUARTA - DA RESCISAO E MULTA) Tj
+0 -15 Td
+(A rescisao antecipada sem aviso previo de 30 dias implicara multa rescisoria de 20%) Tj
+0 -15 Td
+(sobre o valor restante devido do contrato.) Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1563
+%%EOF
